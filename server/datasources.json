@@ -6,11 +6,11 @@
   "mongodbConnect": {
     "name": "mongodbConnect",
     "connector": "mongodb",
-    "host": "localhost",
-    "port": 27017,
-    "database": "name-database",
-    "username": "",
-    "password": ""
+    "host": "10.64.5.170",
+    "port": 7482,
+    "database": "jvillalo",
+    "username": "jvillalo_rw",
+    "password": "2Q9BsYe81DxC2G0"
   },
   "Patch": {
     "name": "Patch",
